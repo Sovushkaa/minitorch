@@ -208,3 +208,230 @@ Epoch  470  loss  1.007406135614422 correct 50
 Epoch  480  loss  0.9536378533575826 correct 50
 Epoch  490  loss  0.8511076707901384 correct 50
 Epoch  500  loss  0.8600473629662088 correct 50
+
+
+
+
+## Module 2: Task 2.5
+
+Epoch  10  loss  30.82579469001945 correct 28
+Epoch  20  loss  27.101863214137595 correct 40
+Epoch  30  loss  22.807246428800426 correct 46
+Epoch  40  loss  18.521729516067936 correct 47
+Epoch  50  loss  16.707256908219783 correct 41
+Epoch  60  loss  17.297574937648893 correct 40
+Epoch  70  loss  17.59652411897003 correct 40
+Epoch  80  loss  16.486174389498867 correct 40
+Epoch  90  loss  15.231948343370906 correct 41
+Epoch  100  loss  14.548948236831597 correct 41
+Epoch  110  loss  13.82164194698367 correct 41
+Epoch  120  loss  13.206434463564895 correct 42
+Epoch  130  loss  12.685989948129212 correct 43
+Epoch  140  loss  11.88557065550553 correct 43
+Epoch  150  loss  11.892687519252965 correct 43
+Epoch  160  loss  10.792571546021978 correct 44
+Epoch  170  loss  10.973151117599208 correct 44
+Epoch  180  loss  10.111315458676597 correct 46
+Epoch  190  loss  9.907706163507394 correct 46
+Epoch  200  loss  10.041784955155418 correct 45
+Epoch  210  loss  8.918449109444197 correct 47
+Epoch  220  loss  9.309850821011192 correct 46
+Epoch  230  loss  8.900217564197103 correct 47
+Epoch  240  loss  8.690996466345126 correct 47
+Epoch  250  loss  8.498294375277785 correct 47
+Epoch  260  loss  8.19317832659395 correct 47
+Epoch  270  loss  8.02968434419288 correct 47
+Epoch  280  loss  7.739825645183359 correct 47
+Epoch  290  loss  7.626397616198939 correct 47
+Epoch  300  loss  7.463673684567502 correct 47
+Epoch  310  loss  7.215490373032552 correct 47
+Epoch  320  loss  7.057817436738858 correct 47
+Epoch  330  loss  6.921932822325016 correct 47
+Epoch  340  loss  6.715867053845762 correct 47
+Epoch  350  loss  6.531409899561363 correct 47
+Epoch  360  loss  6.413109585774088 correct 47
+Epoch  370  loss  6.265339511917242 correct 47
+Epoch  380  loss  6.059957495067421 correct 47
+Epoch  390  loss  5.901709086061026 correct 47
+Epoch  400  loss  5.824267501745724 correct 47
+Epoch  410  loss  5.705262369934942 correct 47
+Epoch  420  loss  5.462464548263905 correct 47
+Epoch  430  loss  5.164767388923581 correct 47
+Epoch  440  loss  4.6599153620367115 correct 48
+Epoch  450  loss  4.53658441951742 correct 48
+Epoch  460  loss  5.517491529528512 correct 47
+Epoch  470  loss  9.435221483196074 correct 45
+Epoch  480  loss  3.6550993560453846 correct 48
+Epoch  490  loss  2.535326341144935 correct 50
+Epoch  500  loss  2.3614192394941727 correct 50
+Датасет Simple
+Общее время обучения: 27.28 секунд
+Время на эпоху: 0.0546 секунд
+
+
+
+Epoch  10  loss  34.13709248565591 correct 28
+Epoch  20  loss  33.495636967976345 correct 28
+Epoch  30  loss  32.92371268680889 correct 28
+Epoch  40  loss  32.26547868318788 correct 28
+Epoch  50  loss  31.560383904560062 correct 27
+Epoch  60  loss  30.764471017400815 correct 31
+Epoch  70  loss  29.955147360173434 correct 33
+Epoch  80  loss  29.07994615476886 correct 32
+Epoch  90  loss  28.291514600000426 correct 31
+Epoch  100  loss  27.74151489483218 correct 31
+Epoch  110  loss  27.40763894745466 correct 31
+Epoch  120  loss  25.87505665465234 correct 32
+Epoch  130  loss  25.813224722552658 correct 32
+Epoch  140  loss  24.554216810137486 correct 33
+Epoch  150  loss  23.674533466536094 correct 34
+Epoch  160  loss  22.270837810707096 correct 39
+Epoch  170  loss  20.431575724553927 correct 42
+Epoch  180  loss  19.413749196714136 correct 42
+Epoch  190  loss  19.708848435874557 correct 41
+Epoch  200  loss  14.647167577364982 correct 44
+Epoch  210  loss  15.183163042601125 correct 43
+Epoch  220  loss  10.662708201090231 correct 47
+Epoch  230  loss  13.561085487554447 correct 44
+Epoch  240  loss  16.187390671515665 correct 45
+Epoch  250  loss  7.523938134803178 correct 47
+Epoch  260  loss  7.208923344919172 correct 47
+Epoch  270  loss  13.596702760350805 correct 42
+Epoch  280  loss  8.293266253127769 correct 46
+Epoch  290  loss  6.089013686454278 correct 47
+Epoch  300  loss  5.452381817612102 correct 47
+Epoch  310  loss  6.3824257829886 correct 47
+Epoch  320  loss  26.89830120423111 correct 37
+Epoch  330  loss  6.829206954021809 correct 47
+Epoch  340  loss  5.336955707582751 correct 48
+Epoch  350  loss  4.966416231011838 correct 48
+Epoch  360  loss  5.0544999055230555 correct 49
+Epoch  370  loss  6.892142886909785 correct 46
+Epoch  380  loss  6.703197472332567 correct 47
+Epoch  390  loss  6.416015291768406 correct 47
+Epoch  400  loss  6.211279631614415 correct 47
+Epoch  410  loss  6.050109569334608 correct 47
+Epoch  420  loss  5.7892890003321344 correct 47
+Epoch  430  loss  5.7237809954051455 correct 47
+Epoch  440  loss  5.675729751356329 correct 47
+Epoch  450  loss  5.580058163390242 correct 47
+Epoch  460  loss  5.499753012832183 correct 47
+Epoch  470  loss  5.503397122873608 correct 47
+Epoch  480  loss  5.592032768087031 correct 47
+Epoch  490  loss  5.421954850402661 correct 47
+Epoch  500  loss  5.280892242569762 correct 47
+Датасет Xor
+Общее время обучения: 212.92 секунд
+Время на эпоху: 0.4258 секунд
+
+
+
+Epoch  10  loss  30.961158375220123 correct 38
+Epoch  20  loss  29.040305509896882 correct 39
+Epoch  30  loss  26.539048759458847 correct 39
+Epoch  40  loss  23.475959071570557 correct 38
+Epoch  50  loss  28.53031941190983 correct 31
+Epoch  60  loss  18.60427228604812 correct 47
+Epoch  70  loss  30.107853563173197 correct 34
+Epoch  80  loss  18.616239010375775 correct 41
+Epoch  90  loss  19.18635508726358 correct 42
+Epoch  100  loss  21.37291490460752 correct 37
+Epoch  110  loss  14.532325101919753 correct 42
+Epoch  120  loss  15.820154984639142 correct 42
+Epoch  130  loss  19.642310275562274 correct 38
+Epoch  140  loss  13.763733473408644 correct 44
+Epoch  150  loss  12.502633119315835 correct 42
+Epoch  160  loss  13.720462511625142 correct 42
+Epoch  170  loss  12.831156293190288 correct 42
+Epoch  180  loss  17.360584111485537 correct 42
+Epoch  190  loss  10.479480251453326 correct 45
+Epoch  200  loss  7.660174569313492 correct 48
+Epoch  210  loss  17.957669865881783 correct 42
+Epoch  220  loss  8.691239986212443 correct 44
+Epoch  230  loss  13.436267377009322 correct 42
+Epoch  240  loss  60.623354186374456 correct 32
+Epoch  250  loss  6.59961678080772 correct 49
+Epoch  260  loss  5.858165533355921 correct 48
+Epoch  270  loss  23.857828853501086 correct 42
+Epoch  280  loss  5.73594801066789 correct 48
+Epoch  290  loss  4.601533177685532 correct 49
+Epoch  300  loss  7.7739831693992745 correct 44
+Epoch  310  loss  15.900500906976905 correct 42
+Epoch  320  loss  5.105839724963437 correct 49
+Epoch  330  loss  4.114935963415215 correct 49
+Epoch  340  loss  3.8995755197484328 correct 49
+Epoch  350  loss  47.28054024087352 correct 38
+Epoch  360  loss  5.923941107835547 correct 49
+Epoch  370  loss  4.221749408388124 correct 49
+Epoch  380  loss  3.533858143385207 correct 49
+Epoch  390  loss  3.105030216731347 correct 49
+Epoch  400  loss  2.9131949044094863 correct 49
+Epoch  410  loss  29.218021587505124 correct 42
+Epoch  420  loss  7.807437893890751 correct 45
+Epoch  430  loss  3.8741546322065807 correct 49
+Epoch  440  loss  3.181760744948677 correct 49
+Epoch  450  loss  2.7560884400079333 correct 50
+Epoch  460  loss  2.4430086472607515 correct 50
+Epoch  470  loss  2.204203258679588 correct 50
+Epoch  480  loss  2.0589582232284 correct 50
+Epoch  490  loss  1.9021741030696173 correct 50
+Epoch  500  loss  1.8391519503995504 correct 49
+Датасет Split
+Общее время обучения: 243.05 секунд
+Время на эпоху: 0.4861 секунд
+
+
+
+Epoch  10  loss  31.74134900374311 correct 30
+Epoch  20  loss  30.70687372873717 correct 30
+Epoch  30  loss  30.243475986825562 correct 31
+Epoch  40  loss  29.749631756700243 correct 32
+Epoch  50  loss  29.013757931984838 correct 34
+Epoch  60  loss  29.25066025758928 correct 30
+Epoch  70  loss  28.287884126243757 correct 33
+Epoch  80  loss  27.893958566999444 correct 34
+Epoch  90  loss  26.84146539281235 correct 34
+Epoch  100  loss  26.728604311607835 correct 34
+Epoch  110  loss  26.36473796543168 correct 34
+Epoch  120  loss  25.116113077820508 correct 35
+Epoch  130  loss  24.679444548208682 correct 36
+Epoch  140  loss  23.46524115715231 correct 36
+Epoch  150  loss  22.481170966940915 correct 36
+Epoch  160  loss  22.263491983465844 correct 36
+Epoch  170  loss  22.87517341055821 correct 35
+Epoch  180  loss  21.582707982034112 correct 37
+Epoch  190  loss  20.882499487195656 correct 37
+Epoch  200  loss  18.98099560056305 correct 40
+Epoch  210  loss  18.6879890429286 correct 41
+Epoch  220  loss  17.35032576693899 correct 42
+Epoch  230  loss  26.8855298955301 correct 37
+Epoch  240  loss  17.771156967899525 correct 42
+Epoch  250  loss  20.360279347660295 correct 40
+Epoch  260  loss  16.764192107791853 correct 43
+Epoch  270  loss  26.038166937379128 correct 37
+Epoch  280  loss  11.719393849204296 correct 48
+Epoch  290  loss  28.575939737490323 correct 35
+Epoch  300  loss  11.746390205864861 correct 44
+Epoch  310  loss  17.0058326081295 correct 41
+Epoch  320  loss  9.884561082906393 correct 49
+Epoch  330  loss  27.489211563264515 correct 34
+Epoch  340  loss  9.609343448918473 correct 47
+Epoch  350  loss  7.308941118427781 correct 49
+Epoch  360  loss  37.09912164665854 correct 34
+Epoch  370  loss  8.318838820144935 correct 49
+Epoch  380  loss  5.984126560874253 correct 49
+Epoch  390  loss  55.98153834551966 correct 30
+Epoch  400  loss  8.063844273902296 correct 49
+Epoch  410  loss  5.866107436834857 correct 49
+Epoch  420  loss  5.818605440856009 correct 49
+Epoch  430  loss  10.822771812116624 correct 47
+Epoch  440  loss  5.796507808816255 correct 49
+Epoch  450  loss  4.558469972592539 correct 50
+Epoch  460  loss  4.6338922614901294 correct 50
+Epoch  470  loss  7.257777625569572 correct 48
+Epoch  480  loss  4.767249963479657 correct 49
+Epoch  490  loss  4.016848625037013 correct 50
+Epoch  500  loss  3.668236458726759 correct 50
+Датасет Circle
+Общее время обучения: 236.07 секунд
+Время на эпоху: 0.4721 секунд

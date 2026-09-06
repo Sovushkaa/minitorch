@@ -1,9 +1,14 @@
+#import sys
+#sys.path.insert(0, r'C:\Users\sovus\minitorch')
+
 """
 Be sure you have minitorch installed in you Virtual Env.
 >>> pip install -Ue .
 """
 
 import minitorch
+
+import time
 
 
 def RParam(*shape):
@@ -95,9 +100,18 @@ class TensorTrain:
                 log_fn(epoch, total_loss, correct, losses)
 
 
-if __name__ == "__main__":
+if __name__ == "__main__": 
     PTS = 50
-    HIDDEN = 2
     RATE = 0.5
-    data = minitorch.datasets["Simple"](PTS)
-    TensorTrain(HIDDEN).train(data, RATE)
+    datasets = ["Simple", "Xor", "Split", "Circle"]
+    for name in datasets:
+        HIDDEN = 2 if name == "Simple" else 10
+        data = minitorch.datasets[name](PTS)
+        start_time = time.time()
+        TensorTrain(HIDDEN).train(data, RATE)
+        end_time = time.time() 
+        total_time = end_time - start_time
+        time_per_epoch = total_time / 500
+        print(f"\nДатасет {name}")
+        print(f"Общее время обучения: {total_time:.2f} секунд")
+        print(f"Время на эпоху: {time_per_epoch:.4f} секунд")
