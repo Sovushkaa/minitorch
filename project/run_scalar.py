@@ -1,3 +1,6 @@
+import sys
+sys.path.insert(0, r'C:\Users\sovus\minitorch')
+
 """
 Be sure you have minitorch installed in you Virtual Env.
 >>> pip install -Ue .
@@ -110,7 +113,9 @@ class ScalarTrain:
 
 if __name__ == "__main__":
     PTS = 50
-    HIDDEN = 2
     RATE = 0.5
-    data = minitorch.datasets["Simple"](PTS)
-    ScalarTrain(HIDDEN).train(data, RATE)
+    dataset_names = ["Simple", "Xor", "Split", "Circle"]
+    for name in dataset_names:
+        HIDDEN = 2 if name == "Simple" else 10
+        data = minitorch.datasets[name](PTS)
+        ScalarTrain(HIDDEN).train(data, RATE)
